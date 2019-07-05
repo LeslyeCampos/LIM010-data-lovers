@@ -1,4 +1,22 @@
+<<<<<<< HEAD
+const filterOrder = document.getElementById('filtro-orden');
+const filterType = document.getElementById('filtro-tipo');
+// funcion que espera que se seleccione algun filtro
+filterOrder.addEventListener('change', () => {
+  ordenar();
+});
+filterType.addEventListener('change', () => {
+  ordenar();
+});
+
+// funcion ordenar
+const ordenar = () => {
+  const pokemonesFiltrados = POKEMON.pokemon;
+  mostrarPokemones(pokemonesFiltrados);
+};
+=======
 /* Asignar contenedor a variable */
+>>>>>>> 6ed3aaf11f15378d454353e3d2af9a1ffb8fa4c9
 const contenedor = document.getElementById('contenedor');
 
 /* FUCNION DE MOSTRAR POKEMONES */
@@ -15,6 +33,10 @@ const mostrarPokemones = (data) => {
     <img src="${imagen}"/>
     </div>`;
   }
+<<<<<<< HEAD
+};
+
+=======
 
   // crear array con pokemones que han sido mostrados con variable pokemon dentro del contenedor
   pokemon = document.getElementsByName('pokemon');
@@ -49,6 +71,7 @@ document.getElementById('close').addEventListener('click', () => {
   document.getElementById('my-modal').classList.add('hide');
 });
 
+>>>>>>> 6ed3aaf11f15378d454353e3d2af9a1ffb8fa4c9
 const atrapados = document.getElementById('contador');
 let contAtrapados = 0;
 let contNoAtrapados = 0;
@@ -62,5 +85,9 @@ for (let i = 0; i < POKEMON.pokemon.length; i++) {
   atrapados.innerHTML = `<div>
      ${contAtrapados}    ${contNoAtrapados}
      </div>`;
+<<<<<<< HEAD
+};
+=======
 };
 
+>>>>>>> 6ed3aaf11f15378d454353e3d2af9a1ffb8fa4c9
