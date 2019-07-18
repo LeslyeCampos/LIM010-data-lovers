@@ -71,7 +71,8 @@ Nuestra página está pensada en los usuarios y fans de una de las franquicias m
 La página les ayudará a mejorar las experiencias de los visitantes en la búsqueda de   información de los Pokémon de la región Kanto.
 
 Realizamos una pequeña encuesta para definir  nuestro público e identificar los aspectos más relevantes para cada usuario.
-Definiendo el público objetivo, para identificar que aspectos son más relevantes mostrar en la página.
+Definiendo el público objetivo, para identificar que aspectos son más relevantes mostrar en la página. 
+[Encuesta Pokedata](https://docs.google.com/forms/d/17z4Mf00pSiZjoTqVUJPsZ_65k7p7AaVO7rIqi6W962w/edit#response=ACYDBNjBIB2-93gNtZSpdc5dztd70DEUT58-R80vi7Ji)
 
 Rango de edad:
 ![Rango de edad](https://user-images.githubusercontent.com/51204770/61409500-fbdbc680-a8a7-11e9-9d2d-29afefe50b58.png)
