@@ -1,5 +1,6 @@
-# 
- <img src="src/imagenes/pokedata.png">
+
+# ![image](https://user-images.githubusercontent.com/51204770/61410964-f469ec80-a8aa-11e9-98c4-8313bb89e7e2.png)
+
 
 ## Índice
 
@@ -70,9 +71,20 @@ Nuestra página está pensada en los usuarios y fans de una de las franquicias m
 La página les ayudará a mejorar las experiencias de los visitantes en la búsqueda de   información de los Pokémon de la región Kanto.
 
 Realizamos una pequeña encuesta para definir  nuestro público e identificar los aspectos más relevantes para cada usuario.
+Definiendo el público objetivo, para identificar que aspectos son más relevantes mostrar en la página.
 
-![image](https://user-images.githubusercontent.com/51204770/60689783-c6d27b80-9e86-11e9-8daf-2458a0703246.png)
+Rango de edad:
+![Rango de edad](https://user-images.githubusercontent.com/51204770/61409500-fbdbc680-a8a7-11e9-9d2d-29afefe50b58.png)
 
+Pokefan
+- Es importante la información que nos reveló la encuesta, que hay una gran cantidad de público que aún no ha jugado pokemón go, por eso es importante hacer la página lo más accesible a todo tipo de usuario: experto e inicial.
+
+![Horas de juego](https://user-images.githubusercontent.com/51204770/61409731-77d60e80-a8a8-11e9-9d47-7af0082f8dae.png)
+
+Identificando la información más relevante:
+- En nuestra encuesta pudimos identificar que para el usuario era más importante que se muestre informmación sore el tipo, peso y tamaño.
+
+![Datos más importantes](https://user-images.githubusercontent.com/51204770/61409958-f0d56600-a8a8-11e9-9b22-60edfed4a921.png)
 
 ## MockUP
 Para llegar al diseño final de cada historia de usuario realizamos 2 momentos: un prototipado de baja  fidelidad y de alta fidelidad
@@ -92,5 +104,14 @@ Testeo de Usuarios:
 Al compartir el diseño con los usuario nos hicieron notar algunos detalles que no habíamos incluido, los cuales nos parecieron importante implementar.
 - Agregar el footer
 - Agregar características de los pokémon
-![Prototipado en Figma](https://user-images.githubusercontent.com/51204770/60689653-58d98480-9e85-11e9-84c1-4e1649b27a15.png)
+
+Prototipado en Figma
+Realizamos nuestro prototipado en FIGMA para acercar lo más acerca del usuario.
+[Diseño en Figma](https://www.figma.com/file/MUGvPCIU0kkZGED0NWl8EqVN/Pokedata?node-id=79%3A34)
+![Login](https://user-images.githubusercontent.com/51204770/61462391-2f663180-a938-11e9-8a04-035bf0943919.png)
+![Vista 1](https://user-images.githubusercontent.com/51204770/61462511-5ae91c00-a938-11e9-8629-704a44e3d07e.png)
+![Selección por Pokemón](https://user-images.githubusercontent.com/51204770/61462584-76ecbd80-a938-11e9-8127-4cd3f0b839ee.png)
+
+
+
 
