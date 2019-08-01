@@ -168,7 +168,6 @@ Posibles soluciones
 - Cambiar la posicion del boton salir.
 
 ### Prototipado en Figma despues de testeo de usabilidad
-Realizamos nuestro prototipado en FIGMA para acercar lo más acerca del usuario.
 [Diseño en Figma](https://www.figma.com/file/Jf5pXN9VMz7Ne1ftbrh84G/Pokedata-(version-3))
 
 
