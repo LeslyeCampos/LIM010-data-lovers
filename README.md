@@ -113,6 +113,63 @@ Realizamos nuestro prototipado en FIGMA para acercar lo más acerca del usuario.
 ![Vista 1](https://user-images.githubusercontent.com/51204770/61462511-5ae91c00-a938-11e9-8629-704a44e3d07e.png)
 ![Selección por Pokemón](https://user-images.githubusercontent.com/51204770/61462584-76ecbd80-a938-11e9-8127-4cd3f0b839ee.png)
 
+## Testeo de Usabilidad:
+### Primer testeo:
+Testeo realizado a 3 usuarios (expertos) con el 1er prototipo en figma
+
+Objetivos de testeo
+- Probar la usabilidad de los filtros de la aplicación.
+- Probar si las categorías son las adecuadas.
+
+Preguntas: 
+- ¿Cómo harías para buscar información sobre un pokemon en especifico?.
+- ¿Se comprende las opciones que existen para ordenar a los pokemones?.
+- ¿Que mejorarias de la version mobile?
+
+Conclusiones del testeo:
+- Ver más elementos que permitan volver a las actividades anteriores.
+- Mejorar visualmemte el modal.
+- Poder visualizar a todos los pokemones.
+- Poder encontrar un pokemon, escribiendo su nombre.
+- Las imagenes se ven pequeñas en version mobile.
+
+Posibles soluciones:
+- Diseñar un botón que vuelva a la página anterior en cada paso.
+- Diseñar un boton que muestre a todos los pokemones en su formato original.
+- Diseñar un buscador de pokemones.
+
+### Segundo testeo:
+Testeo realizado a 3 usuarios (2 expertos y 1 principiante)con el 2do prototipo de alta fidelidad.
+
+Objetivos del testeo
+- Evaluar la importancia del contenido de la información de cada Pokémon.
+- Probar cómo acceder a la información de una categoría en específico.
+- Probar usabilidad de la herramienta “Buscar”.
+- Poder identificar a los pokemones segun las opciones del menú.
+
+Preguntas: 
+- Busca un pokemon en especifico, por ejemplo: Pickachu.
+- ¿En la información de cada pokemon, que otra caracteristicas crees que se debe agregar?.
+- ¿Identifica el menú, lo comprende, que le agregaria?
+- ¿Se comprende los botones: menu, pokemon y huevos?
+
+Conclusiones del testeo
+- Se puede realizar una busqueda por nombre eficaz
+- Agregar evoluciones y pre-evoluciones de los Pokémon a modal.
+- Las etiquetas de los Pokemones deben ser mas visibles y descriptivas.
+- La opcion predeterminado es dificil de entender para algunos usuarios.
+- El boton "salir" debe estar colocado al extremo izquierdo de la pagina.
+
+Posibles soluciones
+- Agregar una introducción explicativa cuando ingrese a la opcion % de incubacion.
+- Se agregará mas caracteristicas de pokemon a modal y evolucion de pokemones.
+- Se cambiará el nombre del botón huevos por incubacion, ya que asi se entiende mejor.
+- Los colores de los botones tiene que tener relacion con el grafico estadistico.
+- Cambiar la posicion del boton salir.
+
+### Prototipado en Figma despues de testeo de usabilidad
+Realizamos nuestro prototipado en FIGMA para acercar lo más acerca del usuario.
+[Diseño en Figma](https://www.figma.com/file/Jf5pXN9VMz7Ne1ftbrh84G/Pokedata-(version-3))
 
 
 
